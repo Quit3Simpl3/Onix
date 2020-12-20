@@ -1,5 +1,5 @@
 # Onix
-Get yourself a nice, strong, memorable password instantly.
+###Get yourself a nice, strong, memorable password instantly.
 
 ### USAGE:
 1. Provide a dictionary.txt file containing the words you would like to use as passwords.
